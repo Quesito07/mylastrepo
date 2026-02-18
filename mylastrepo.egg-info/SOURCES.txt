@@ -1,0 +1,7 @@
+README.md
+setup.py
+mylastrepo/__init__.py
+mylastrepo.egg-info/PKG-INFO
+mylastrepo.egg-info/SOURCES.txt
+mylastrepo.egg-info/dependency_links.txt
+mylastrepo.egg-info/top_level.txt
